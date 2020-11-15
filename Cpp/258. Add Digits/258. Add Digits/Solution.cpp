@@ -2,7 +2,6 @@
 
 int Solution::addDigits(int num)
 {
-
 	while (true) {
 		if(num < 10)
 			return num;
