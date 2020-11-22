@@ -1,6 +1,5 @@
 #include "Solution.h"
-#include<map>
-#include<algorithm>
+
 int Solution::singleNumber(std::vector<int>& nums)
 {
     
