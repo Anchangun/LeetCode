@@ -1,3 +1,3 @@
 # LeetCode
 문제풀이
-api/pin?username=Anchangun&repo=github-readme-stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anchagnun)](https://github.com/anuraghazra/github-readme-stats)
