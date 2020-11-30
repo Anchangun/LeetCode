@@ -45,10 +45,5 @@ ListNode* Solution::mergeTwoLists(ListNode* l1, ListNode* l2)
 		header->next = l1;
 	}
 	return sort_list;
-
-
-
-
-
 }
 
