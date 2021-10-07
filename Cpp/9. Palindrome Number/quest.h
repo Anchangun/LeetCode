@@ -35,4 +35,8 @@ Constraints:
 Follow up: 
 Could you solve it without converting the integer to a string?
 
+Result :
+Runtime: 12 ms, faster than 60.17% of C++ online submissions for Palindrome Number.
+Memory Usage: 7.1 MB, less than 8.79% of C++ online submissions for Palindrome Number.
+
 */
